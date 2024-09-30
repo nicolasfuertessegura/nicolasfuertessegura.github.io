@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Nicolas Fuertes-Segura</title>
+    <link>/tag/source-themes/</link>
+      <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>/tag/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>The Asymmetric Effects of High Achiever Peers: Experimental Evidence from Ecuador</title>
+      <link>/publication/high-achievers-ecuador/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/high-achievers-ecuador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impacts of Childhood Exposure to Terrorist Attacks on Teenagers’ Socioemotional Skills and Alcohol Consumption</title>
+      <link>/publication/violence-colombia-paper/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/violence-colombia-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium-Term Impacts of Access to Daycare on School Outcomes: Experimental Evidence from Rio de Janeiro</title>
+      <link>/publication/rio-paper/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rio-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
