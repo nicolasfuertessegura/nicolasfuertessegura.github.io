@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "nicolasfuertessegura.github.io"
+  title: "Nicolás Fuertes-Segura"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,10 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
+
+resources:
+  - files/**
 

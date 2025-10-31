@@ -1,11 +1,29 @@
 ---
-title: "nicolasfuertessegura.github.io"
+title: "Nicolás Fuertes-Segura"
+format: html
+toc: false
+
+about:
+  template: trestles
+  image: media/avatar.jpg
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:nfuertessegura@ucsb.edu
+    - icon: Twitter
+      text: Twitter
+      href: https://twitter.com/NicoFuertes
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicolas-fuertes-segura/
+    - icon: GitHub
+      text: GitHub
+      href: https://github.com/nicolasfuertessegura
+    - text: CV
+      href: files/cv.pdf
 ---
 
-This is a Quarto website.
+I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. My research focuses on Labor and Health economics with a primary interest in peer and network effects. My research has been honored with the 2025 ASHEcon ”Health and Development” Program Chair Award. My Job Market Paper studies how friendships are formed and persist over time, as well as the impact of these friendships on both cognitive and non-cognitive skills. This paper finds that the timing and length of classroom exposure affect the formation and persistence of friendships. Regarding cognitive and non-cognitive skill, the paper finds that friendship networks negatively affect math and executive function and reduce the symptoms of depression.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am on the **2025–2026 job market** and am available for interviews.
