@@ -12,25 +12,25 @@ We study the impact of the friendship networks on cognitive and non-cognitive sk
 
 ### Working Papers
 
-[**The Asymmetric Effects of High Achiever Peers: Experimental Evidence from Ecuador**](files/High Peers.pdf) with *Yyannú Cruz Aguayo and Carolina Echeverri*
+[**The Asymmetric Effects of High Achiever Peers: Experimental Evidence from Ecuador**](files/High%20Peers.pdf) with *Yyannú Cruz Aguayo and Carolina Echeverri*
 
 ::: {.callout collapse="true" title="Show Abstract"}
 We study the impact of exposure to high achievers on cognitive and non-cognitive skills using a unique randomized experiment from Ecuador. In each school, students are randomly assigned to classrooms in every grade from Kindergarten to 6th. We find that exposure to high achievers reduces test scores in math and executive function. Moreover, male students affect only males, and female students affect only females, consistent with homophily. Peer effects are intensified among top-performing students and students in smaller schools. Effects of 1st-grade peers are stronger but fade over time. Finally, we find reductions in self-reported happiness.
 :::
 
-[**The Impacts of Terrorist Attacks on Teenagers’ Socioemotional Skills and Risky Health Behaviors**](files/Risky Colombia.pdf)
+[**The Impacts of Terrorist Attacks on Teenagers’ Socioemotional Skills and Risky Health Behaviors**](files/Risky%20Colombia.pdf)
 
 ::: {.callout collapse="true" title="Show Abstract"}
 This paper explores the impact of exposure to violence during childhood (0-9 years old) on socioemotional skills and risky health behaviors in adolescence. Using data from the Colombian Longitudinal Survey and municipality-level administrative data, I exploit the within-municipality cross-cohort variation of terrorist attacks among teenagers living in urban areas of Colombia. I find robust evidence that exposure to terrorist attacks is associated with a 0.046 SD increase in socioemotional difficulties experienced, mainly driven by increased hyperactivity, and a 6.5% increase in the probability of drinking. These results highlight the potential consequences of violence on new outcomes related to adolescent health.
 :::
 
-[**The Intergenerational Effects of Cigarette Taxes on Smoking**](files/Intergenerational Smoking.pdf)with *Susana Otálvaro-Ramírez*
+[**The Intergenerational Effects of Cigarette Taxes on Smoking**](files/Intergenerational%20Smoking.pdf)with *Susana Otálvaro-Ramírez*
 
 ::: {.callout collapse="true" title="Show Abstract"}
 While teenage exposure to cigarette taxes reduces contemporary smoking, adult smoking, and mortality rates among the generation that experienced these policies, little is known about their effect on subsequent generations. This paper examines how a mother's exposure to cigarette taxes during her adolescence affects her children's smoking decisions and respiratory health outcomes. Using data from the National Longitudinal Survey of Youth 1979 (NLSY79) and the NLSY79 Children and Young Adult Survey (CNLSY), we leverage the variation in cigarette taxes experienced by mothers to understand the intergenerational effects of these taxes. Our findings suggest that a one-dollar increase in cigarette taxes experienced by the mother at ages 14-17 is associated with a 5 percentage points reduction in smoking participation and a 15 percentage points reduction in asthma incidence. These results shed light on the potential intergenerational effects of anti-tobacco policy on risky health behaviors and other health outcomes.
 :::
 
-[**Medium-Term Impacts of Access to Daycare on School Outcomes: Experimental Evidence from Rio de Janeiro**](files/Rio Paper.pdf)with *Pedro Carneiro, Sofia Castro Vargas, Yyannú Cruz Aguayo, Gregory Elacqua and Norbert Schady)*
+[**Medium-Term Impacts of Access to Daycare on School Outcomes: Experimental Evidence from Rio de Janeiro**](files/Rio%20Paper.pdf)with *Pedro Carneiro, Sofia Castro Vargas, Yyannú Cruz Aguayo, Gregory Elacqua and Norbert Schady)*
 
 ::: {.callout collapse="true" title="Show Abstract"}
 In this document we analyze the impacts of a large-scale intervention that provided access to daycare centers for children in low-income neighborhoods in the city of Rio de Janeiro. Our results suggest that the intervention had a positive impact on enrollment rates and on the number of years children were enrolled to daycare during early childhood. We also find that winning the lottery had a positive effect on how regularly children attended primary school during the academic year. Because of the high attrition rates in the sample, we are unable to conclude whether the lottery had a positive impact on medium-term academic outcomes like standardized tests scores and overall grades.
