@@ -6,7 +6,7 @@ toc: false
 about:
   template: trestles
   image: media/avatar.jpg
-  image-shape: round
+  image-shape: rectangle
   image-width: 17em
   links:
     - text: Email
