@@ -10,7 +10,7 @@ about:
   image-width: 17em
   links:
     - text: Email
-      href: mailto:nfuertessegura@ucsb.edu
+      href: mailto:nsegura@umich.edu
     - icon: Twitter
       text: Twitter
       href: https://twitter.com/NicoFuertes
@@ -24,6 +24,8 @@ about:
       href: files/cv.pdf
 ---
 
-I am a Ph.D. Candidate in Economics at the University of California, Santa Barbara. My research focuses on Labor and Health economics with a primary interest in peer and network effects. My research has been honored with the 2025 ASHEcon ”Health and Development” Program Chair Award. My Job Market Paper studies how friendships are formed and persist over time, as well as the impact of these friendships on both cognitive and non-cognitive skills. This paper finds that the timing and length of classroom exposure affect the formation and persistence of friendships. Regarding cognitive and non-cognitive skill, the paper finds that friendship networks negatively affect math and executive function and reduce the symptoms of depression.
+I am a Postdoctoral Fellow at the University of Michigan’s Gerald R. Ford School of Public Policy. My research lies at the intersection of labor, health, and applied economics, focusing on how social environments, public policies, and adverse early-life experiences shape human development and individual outcomes, particularly in developing countries.
 
-I am on the **2025–2026 job market** and am available for interviews.
+My research examines how peer relationships and classroom environments affect children’s cognitive and socioemotional development, as well as how exposure to violence and conflict shapes educational attainment, mental health, and other long-term outcomes. More broadly, I study how early-life experiences and policy interventions influence human capital accumulation and well-being.
+
+I hold a Ph.D. in Economics from the University of California, Santa Barbara, and an M.A. and a B.A. in Economics from Universidad de los Andes in Colombia. Prior to my doctoral studies, I worked at the Inter-American Development Bank, contributing to the design and evaluation of education, early childhood development, and social protection and labor market interventions across Latin America.
